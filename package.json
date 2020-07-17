@@ -27,7 +27,7 @@
     "allure-commandline": "^2.13.0",
     "chai": "^4.2.0",
     "eslint": "^7.4.0",
-    "eslint-plugin-ui-testing": "^0.3.0",
+    "eslint-plugin-ui-testing": "^0.4.0",
     "mocha": "^8.0.1",
     "ts-node": "^8.10.2",
     "tsconfig-paths": "^3.9.0",
