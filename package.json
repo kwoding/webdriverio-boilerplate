@@ -1,6 +1,6 @@
 {
   "name": "webdriverio_v5_typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate project using version 5 WebdriverIO & TypeScript.",
   "repository": "https://github.com/jpolley/WebdriverIO_v5_TypeScript",
   "scripts": {
